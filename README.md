@@ -6,7 +6,7 @@ It helps teams spot what star ratings alone fail to reveal.
 
 ---
 
-## 💡 Problem Statement
+## 💡 Problem Statement 
 
 User ratings can be misleading.
 
