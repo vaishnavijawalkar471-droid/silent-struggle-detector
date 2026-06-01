@@ -1,6 +1,6 @@
 # 🔍 Silent Struggle Detector  
  
-**Silent Struggle Detector** is a lightweight feedback analysis tool that uncovers *hidden dissatisfaction* in user reviews — cases where users give **high ratings** but express **hesitation or uncertainty** in their comments.
+**Silent Struggle Detector** is a lightweight feedback analysis tool that uncovers *hidden dissatisfaction* in user reviews — cases where users give **high ratings** but express **hesitation or uncertainty** in their commentsn       
 
 It helps teams spot what star ratings alone fail to reveal.
 
